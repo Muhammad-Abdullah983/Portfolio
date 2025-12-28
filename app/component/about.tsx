@@ -51,6 +51,7 @@ export default function AboutPage() {
                             "React",
                             "Next.js",
                             "Tailwind CSS",
+                            "Supabase",
                             "Git & GitHub",
                             "VsCode",
                             "Figma",

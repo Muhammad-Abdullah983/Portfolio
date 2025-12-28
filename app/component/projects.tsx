@@ -5,6 +5,12 @@ import { motion } from "framer-motion";
 export default function ProjectsPage() {
     const projects = [
         {
+            title: "Ai Meating Recorder",
+            description: "An AI-powered meeting recorder that transcribes and summarizes meetings in real-time.",
+            tech: ["Next.js", "OpenAI API", "Tailwind" , "Supabase"],
+            link: "https://ai-meating-recorder.vercel.app/",
+        },
+        {
             title: "E-commerce Platform",
             description: "A full-featured e-commerce platform with user authentication, product listings, and a shopping cart.",
             tech: ["Next.js", "Firebase", "Tailwind"],
