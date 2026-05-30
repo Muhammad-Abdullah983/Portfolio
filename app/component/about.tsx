@@ -43,11 +43,10 @@ export default function AboutPage() {
                     <div className="flex flex-wrap gap-3">
                         {[
                             "C++",
-                            "pyhton",
+                            "Python",
                             "HTML",
                             "CSS",
                             "JavaScript",
-                            "TypeScript",
                             "React",
                             "Next.js",
                             "Tailwind CSS",
