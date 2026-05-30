@@ -16,7 +16,7 @@ export default function Home() {
             >
                 <div className="w-full h-full">
                     <img
-                        src="/my-pic.jpg"
+                        src="/my-pic.jpeg"
                         alt="Muhammad Abdullah"
                         className="rounded-full object-cover w-full h-full"
                     />
